@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
