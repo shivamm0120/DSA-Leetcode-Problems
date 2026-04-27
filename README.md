@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
