@@ -14,6 +14,7 @@ class Solution {
             freq[i]+=freq[i-1];
         }
 
+        //so no of elemts lesser than value will be freq of the element of value -1
         for(int i=0;i<n;i++){
             if(nums[i]==0)res[i]=0;
             else 
