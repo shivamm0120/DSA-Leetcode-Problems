@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0788-rotated-digits) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1861-rotating-the-box](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1861-rotating-the-box) |
 ## Binary Search
