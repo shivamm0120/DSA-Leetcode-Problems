@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0152-maximum-product-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0788-rotated-digits) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1572-matrix-diagonal-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1861-rotating-the-box) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
