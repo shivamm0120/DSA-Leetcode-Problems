@@ -5,15 +5,15 @@ class Solution {
         int start=0,end=n-1;
 
         while(start<end){
-            int index=start+ (end-start)/2;
+            int mid=start + (end-start)/2;
 
-            if(nums[index]>nums[index+1])
-                return nums[index+1];
+            if(nums[mid]>nums[mid+1])
+                return nums[mid+1];
 
-            else if(nums[index]>nums[end]) {
-                start=index+1;
+            else if(nums[mid]>nums[end]) {
+                start=mid+1;
             }
-            else end=index;
+            else end=mid;
         }
 
         return nums[start];
