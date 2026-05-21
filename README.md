@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
