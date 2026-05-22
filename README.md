@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1861-rotating-the-box) |
