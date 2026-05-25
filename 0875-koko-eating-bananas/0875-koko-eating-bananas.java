@@ -13,7 +13,7 @@ class Solution {
         int ans=0;
         while(min_speed<=max_speed){
             int mid =(min_speed+max_speed)/2;
-            int count =findHrs(piles,mid);
+            long  count =findHrs(piles,mid);
             if(count<=h){
                 ans=mid;
                 max_speed=mid-1;
@@ -22,10 +22,11 @@ class Solution {
         }
         return ans;
     }
-    static int findHrs(int []piles,int mid){
-        int count=0;
+    static long findHrs(int []piles,int mid){
+        long count=0;
         for (int i=0;i<piles.length;i++){
-            count +=Math.ceil(piles[i]/(double)mid);
+            count +=(piles[i]+mid-1)/mid;
+            
         }
         return count ;
     }
