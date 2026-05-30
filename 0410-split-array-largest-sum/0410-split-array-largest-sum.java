@@ -1,8 +1,10 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
         if(nums.length<k)return -1;
+
         int low =nums[0];
-        int high=0;int ans=Integer.MAX_VALUE;
+        int high=0;
+        
         for(int num:nums){
             low=Math.max(num,low);
             high+=num;
@@ -20,6 +22,7 @@ class Solution {
     }
     public static int countSub(int[] nums,int sumLimit){
         int count =1,sum=0;
+        
         for(int i=0;i<nums.length;i++){
             if(sum+nums[i]>sumLimit){
                 count++;
