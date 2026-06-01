@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1572-matrix-diagonal-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1861-rotating-the-box) |
+| [1901-find-a-peak-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3660-jump-game-ix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3660-jump-game-ix) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1572-matrix-diagonal-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1861-rotating-the-box) |
+| [1901-find-a-peak-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
