@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0796-rotate-string](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
