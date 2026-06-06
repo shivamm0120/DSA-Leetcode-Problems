@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
