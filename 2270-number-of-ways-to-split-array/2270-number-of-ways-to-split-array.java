@@ -11,7 +11,7 @@ class Solution {
 
         for(int i=0;i<n-1;i++){
             first+=nums[i];
-            if(first>=(sum-first) )split++;
+            if(first>=sum-first)split++;
         }
 
         return split;
