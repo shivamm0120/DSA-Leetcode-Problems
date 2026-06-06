@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2270-number-of-ways-to-split-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3660-jump-game-ix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3660-jump-game-ix) |
@@ -198,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
