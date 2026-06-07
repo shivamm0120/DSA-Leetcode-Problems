@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0788-rotated-digits) |
+| [1922-count-good-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
