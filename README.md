@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
