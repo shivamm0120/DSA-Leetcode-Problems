@@ -2,8 +2,8 @@ class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
          List<List<Integer>> ans= new ArrayList<>();
-         findSubsets(0,nums,ans,new ArrayList<>());
          ans.add(new ArrayList<>());
+         findSubsets(0,nums,ans,new ArrayList<>());
 
      return ans; 
         
