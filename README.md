@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2270-number-of-ways-to-split-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2270-number-of-ways-to-split-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2784-check-if-array-is-good](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 ## Bit Manipulation
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0079-word-search) |
+## Sliding Window
+|  |
+| ------- |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 <!---LeetCode Topics End-->
