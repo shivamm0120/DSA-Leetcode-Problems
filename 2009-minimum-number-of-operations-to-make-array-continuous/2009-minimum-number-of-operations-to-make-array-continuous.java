@@ -3,32 +3,31 @@ class Solution {
         int n=nums.length;
         Arrays.sort(nums);
 
-       HashSet <Integer>hs= new HashSet<>();
-       hs.add(nums[0]);
-       int min_p=0,max_p=1;
-       int min_op=Integer.MAX_VALUE;
-       int window_size=0,dup=0;
+       ArrayList<Integer>al= new ArrayList<>();
+        al.add(nums[0]);
+        int pointer=1;
 
-       while(max_p<n){
-         if(nums[max_p]-nums[min_p]<=n-1){
-            hs.add(nums[max_p]);
-            max_p++;
-         }
-         else{
-            window_size=max_p-min_p;
-            dup=window_size-hs.size();
-            min_op=Math.min(min_op,n-window_size+dup);
-            hs.remove((Integer)nums[min_p]);
-            min_p++;
-         }
-       }
-       if(max_p==n){
-           window_size=max_p-min_p;
-            dup=window_size-hs.size();
-            min_op=Math.min(min_op,n-window_size+dup);
-       }
+        for(int curr=1;curr<n;curr++){
+            
+            int prev=curr-1;
 
-        return (min_op==Integer.MAX_VALUE)?0:min_op;
-        
+            if(nums[curr]!=nums[prev])
+              al.add(nums[curr]);
+        }
+
+        int left=0,right=1;
+        int maxDistinct=1;
+
+       while(right<al.size()){
+            boolean validRange=al.get(right)-al.get(left)<=n-1;
+            if(validRange)
+               right++;
+             else {
+                maxDistinct=Math.max(maxDistinct,right-left);
+                left++;
+             }  
+        }
+       maxDistinct= Math.max(maxDistinct,right-left);
+       return n-maxDistinct;
     }
 }
