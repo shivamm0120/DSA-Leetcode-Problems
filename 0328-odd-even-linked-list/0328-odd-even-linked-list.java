@@ -16,22 +16,19 @@ class Solution {
         ListNode even=head.next;
         ListNode firstEven=head.next;
 
-        boolean oddValid=  (odd!=null && odd.next!=null);
-        boolean evenValid= (even!=null && even.next!=null);
 
-        while(oddValid && evenValid){
+        while((even!=null && even.next!=null)){
             odd.next=even.next;
             odd=odd.next;
 
             even.next=odd.next;
             even=even.next;
-            
-            oddValid=  (odd!=null && odd.next!=null);
-            evenValid= (even!=null && even.next!=null);
-
         }
+
+        //when node count is even then even will not be null ..so make its next point to null
         if(even!=null)even.next=null;
         odd.next=firstEven;
+
         return head;
     }
 }
