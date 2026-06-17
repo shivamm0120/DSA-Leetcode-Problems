@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
