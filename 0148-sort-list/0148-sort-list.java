@@ -17,7 +17,7 @@ class Solution {
     }
     ListNode sort(ListNode node){
         //single element
-        if(node.next==null)return node;
+        if(node==null||node.next==null)return node;
 
         //find middle node
         ListNode middle =findMiddle(node);
