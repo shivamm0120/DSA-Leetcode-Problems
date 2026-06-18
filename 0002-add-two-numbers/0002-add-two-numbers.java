@@ -10,64 +10,41 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode t1= l1;
-        ListNode t2= l2,prev=t2;
+        ListNode dummy=new ListNode(-1);
+        ListNode temp=dummy;
 
-        int carry=0,sum=0;
+        int carry=0;
+        while(l1!=null || l2!=null){
+            int sum=0;
+            if(l1==null) {
+                sum=l2.val+carry;
+                l2=l2.next;
+            }
+            else if(l2==null){
+                sum=l1.val+carry;
+                l1=l1.next;
+            }
+            else sum=l1.val+l2.val+carry;
+            temp.next=new ListNode(sum%10);
+            temp=temp.next;
 
-        while(t1!=null && t2!=null){
-            sum=t1.val+t2.val+carry;
             if(sum>=10){
-                t2.val=sum%10;
                 carry=1;
-            }else{
-                t2.val=sum;
-                carry=0;
             }
-            t1=t1.next;
-            prev=t2;
-            t2=t2.next;
-        }
+            else carry=0;
 
-        if(t1==null && t2== null ){
-            if(carry==1)
-             prev.next=new ListNode(1);
-        }
-        else if(t1==null){
-           prev= computeSum(t2,carry);
-            
-        }
-        else {
-            prev.next=t1;
-           prev= computeSum(t1,carry);
-        }
-
-             return l2;
-        
-    }
-
-     static ListNode computeSum(ListNode node, int carry) {
-        ListNode prev = null;
-
-        while (node != null && carry != 0) {
-            int sum = node.val + carry;
-
-            if (sum >= 10) {
-                node.val = sum % 10;
-                carry = 1;
-            } else {
-                node.val = sum;
-                carry = 0;
+            if(l1!=null && l2!=null){
+            l1=l1.next;
+            l2=l2.next;
             }
-
-            prev = node;
-            node = node.next;
         }
-            if(carry==1)
-             prev.next=new ListNode(1);
+        if(carry==1)
+        temp.next=new ListNode(1);
 
-        return prev;
+       
+        return dummy.next;
+
+      
     }
-   
 
 }
