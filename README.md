@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0141-linked-list-cycle) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -277,5 +279,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
