@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
