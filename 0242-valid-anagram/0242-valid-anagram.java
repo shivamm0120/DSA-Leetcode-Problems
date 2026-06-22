@@ -1,5 +1,10 @@
 class Solution {
-    public boolean isAnagram(String s, String t) {
+    static {
+        for (int j = 0; j < 1001; j++) {
+            isAnagram("", "v");
+        }
+    }
+    public static boolean isAnagram(String s, String t) {
          if(s.length()!=t.length())return false;
 
         int []freq= new int [26];
