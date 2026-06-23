@@ -10,44 +10,42 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
+       if(head==null|| head.next==null)return head;
 
-        ListNode first=head;//for updating last node next var to the first node
-        
-        //these 2 vars for maintaining k node between left and right
-        ListNode left=head;ListNode right=head;
+        ListNode temp= head;
+        int n=0;
+        ListNode last=null;
 
-        //calculate size of the list 
-        int size=0;
-        while(right!=null){
-            size++;
-            right=right.next;
+        while(temp!=null){
+
+            if(temp.next==null)last=temp;
+            temp=temp.next;
+            n++;
         }
 
-        if(size==0)return null;
+        k=k%n;
 
-        k=k%size; //if k is greater than its size ,after rotation we will get the repeated list same as for some k less than its size 
-        if(k==0)return head; //if k is zero it means no rotation needed ,just return head
+        ListNode prev=findKthNode(head,k);
 
-        right=head;
-        int node=0;
-
-        //move right pointer to the kth node 
-        while(node<k){
-            node++;
-            right=right.next;
-        }
-        //once right is at kth node then start moving each left and right pointer until the list doesnot get end
-        while(right.next!=null){
-            left=left.next;
-            right=right.next;
-        }
-
-        //just update references
-        head=left.next;
-        left.next=null;
-        right.next=first;
-
+        last.next=head;
+        head=prev.next;
+        prev.next=null;
 
         return head;
     }
+    ListNode findKthNode(ListNode head,int k){
+        ListNode prev=head;
+        ListNode curr=head;
+
+        while(k-->0){
+            curr=curr.next;
+        }
+        while(curr.next!=null){
+            curr=curr.next;
+            prev=prev.next;
+        }
+        return prev;
+    }
+
+
 }
