@@ -5,21 +5,22 @@ class Solution {
         }
     }
     public static boolean isAnagram(String s, String t) {
-         if(s.length()!=t.length())return false;
+        Set<String> hm= new HashSet<>();
+        int [] freq= findFreq(s);
+        String key=Arrays.toString(freq);
+        hm.add(key);
 
-        int []freq= new int [26];
-        for(int i=0;i<s.length();i++){
-            int index=s.charAt(i)-'a';
-            freq[index]++;
+        freq=findFreq(t);
+        key=Arrays.toString(freq);
+        if(hm.contains(key))return true;
+        return false;
+    }
+   static int[] findFreq(String s){
+        int [] freq= new int [26];
+        for(char ch:s.toCharArray()){
+            freq[ch-'a']++;
         }
-        for(int i=0;i<t.length();i++){
-            int index=t.charAt(i)-'a';
-            freq[index]--;
-        }
-        for(int i=0;i<26;i++){
-            if(freq[i]!=0)return false;
-        }
-        return true;
-        
+        return freq;
+
     }
 }
