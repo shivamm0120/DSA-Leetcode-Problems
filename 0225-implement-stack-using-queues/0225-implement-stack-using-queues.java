@@ -1,7 +1,7 @@
-// import java.util.Queue;
-// import java.util.ArrayDeque;
+
 class MyStack {
-     Queue<Integer>queue =new ArrayDeque<>();
+      Queue<Integer>queue =new ArrayDeque<>();
+     
 
     public MyStack() {
         
