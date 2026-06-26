@@ -13,8 +13,7 @@ class MyQueue {
     
     public int pop() {
         if(stack2.isEmpty()){
-          int top=stack1.size()-1;
-          while(top-->=0){
+          while(!stack1.isEmpty()){
             stack2.push(stack1.pop());
           }
         }
@@ -24,8 +23,7 @@ class MyQueue {
     
     public int peek() {
        if(stack2.isEmpty()){
-        int top=stack1.size()-1;
-        while(top-->=0){
+        while(!stack1.isEmpty()){
             stack2.push(stack1.pop());
         }
         }
