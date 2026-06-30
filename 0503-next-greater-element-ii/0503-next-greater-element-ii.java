@@ -5,17 +5,18 @@ class Solution {
 
         Stack <Integer>stack= new Stack<>();
         int x=2;
-        while(x>0){
-        for(int i=n-1;i>=0;i--){
-            while(!stack.isEmpty()&&stack.peek()<=nums[i]){
+        
+        for(int i=2*n-1;i>=0;i--){
+            while(!stack.isEmpty()&&stack.peek()<=nums[i%n]){
                 stack.pop();
             }
+            if(i<n){
            nextGreater[i]= stack.isEmpty()?-1:stack.peek();
-           stack.push(nums[i]);
+            }
+           stack.push(nums[i%n]);
            
         }
-        x--;
-        }
+    
         return nextGreater;
         
     }
