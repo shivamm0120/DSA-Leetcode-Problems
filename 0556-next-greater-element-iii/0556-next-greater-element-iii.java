@@ -11,13 +11,16 @@ class Solution {
         if(i==-1)return -1;
 
         //find an element from which it has to be swapped 
-        //after swapping elements after ith index will be in decreasing order ..just reverse them
         int j= num.length-1;
         while(j>=0&&num[j]<=num[i]){
             j--;
         }
         swap (num,i,j);
+
+        //after swapping , elements after ith index will be in decreasing order ..just reverse them
         reverse (num,i+1,num.length-1);
+
+        //check if it is inside int range 
         long num1=Long.parseLong(new String(num));
         if(num1>Integer.MAX_VALUE)return -1;
          return (int)num1;
