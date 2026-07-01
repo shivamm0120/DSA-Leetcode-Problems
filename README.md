@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
+| [0556-next-greater-element-iii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0788-rotated-digits](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1922-count-good-numbers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0556-next-greater-element-iii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0556-next-greater-element-iii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
