@@ -3,7 +3,7 @@ class Solution {
         int n=arr.length;long sum=0;
         int mod=(int)1e9 +7;
  
-        Stack<Integer> stack= new Stack<>();
+        Deque<Integer> stack = new ArrayDeque<>();
 
         int []left = findPrevSmaller(arr,stack);
         stack.clear();
@@ -18,7 +18,7 @@ class Solution {
         }
         return (int)sum;
     }
-   int[] findPrevSmaller(int []arr,Stack<Integer>stack){
+   int[] findPrevSmaller(int []arr,Deque<Integer>stack){
     int []left= new int [arr.length];
     
     for(int i=0;i<arr.length;i++){
@@ -30,7 +30,7 @@ class Solution {
     }
     return left;
    }
-   int [] findNextSmaller(int []arr,Stack<Integer>stack){
+   int [] findNextSmaller(int []arr,Deque<Integer>stack){
      int []right= new int [arr.length];
      for(int i=arr.length-1;i>=0;i--){
         while(!stack.isEmpty()&& arr[stack.peek()]>=arr[i])
