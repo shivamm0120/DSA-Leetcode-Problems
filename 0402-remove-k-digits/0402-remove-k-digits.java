@@ -29,6 +29,6 @@ class Solution {
         //removing leading zeroes 
         int i=0;
         while(i<ans.length() && ans.charAt(i)=='0')i++;
-        return ans.length()==0 || i>=ans.length()?"0":ans.substring(i);
+        return i==ans.length()?"0":ans.substring(i);
     }
 }
