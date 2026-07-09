@@ -21,14 +21,14 @@ class Solution {
 
         //convert stack into its equivalent no 
         while(!stack.isEmpty()){
-           ans.append(stack.pop());
+           ans.append(stack.pop()); //will take O(n)
+                                //before i was using insert method that requires shifting of elements ie :O(n2)
         }
-        ans.reverse();
-        
-        //removing leading zeroes 
-        while(ans.length()>0 && ans.charAt(0)=='0')ans.deleteCharAt(0);
-        return ans.length()==0?"0":ans.toString();
-        
+        ans.reverse();//reverse the num
 
+        //removing leading zeroes 
+        int i=0;
+        while(i<ans.length() && ans.charAt(i)=='0')i++;
+        return ans.length()==0 || i>=ans.length()?"0":ans.substring(i);
     }
 }
