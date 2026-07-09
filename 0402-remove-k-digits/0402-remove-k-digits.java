@@ -25,7 +25,6 @@ class Solution {
         while(!stack.isEmpty()){
            ans.insert(0, stack.pop());
         }
-        if(ans.length()==0)return "0";
         while(ans.length()>0 && ans.charAt(0)=='0')ans.deleteCharAt(0);
         return ans.length()==0?"0":ans.toString();
         
