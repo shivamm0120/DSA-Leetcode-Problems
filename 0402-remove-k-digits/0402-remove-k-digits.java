@@ -19,7 +19,7 @@ class Solution {
             k--;
         }
 
-        //convert stack into its equivalent no 
+        //convert stack into its equivalent number 
         while(!stack.isEmpty()){
            ans.append(stack.pop()); //will take O(n)
                                 //before i was using insert method that requires shifting of elements ie :O(n2)
@@ -30,5 +30,10 @@ class Solution {
         int i=0;
         while(i<ans.length() && ans.charAt(i)=='0')i++;
         return i==ans.length()?"0":ans.substring(i);
+
+        //deleteCharAt() requires shifting of element ie O(n^2)operation
+        //thus find an index from start which is non zero..after getting  
+        //first digit we can call substring method to return remaining digits 
+        //it will take O(n)
     }
 }
