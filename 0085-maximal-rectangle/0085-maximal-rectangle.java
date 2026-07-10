@@ -14,11 +14,7 @@ class Solution {
                 }
                 else heights[j]=0;
             }
-            if(i==0)
-             for(int height: heights)
-               System.out.println(height);
-            
-            
+           
             maxArea= Math.max(maxArea, largestRectangleArea(heights));
 
 
