@@ -4,12 +4,6 @@ class Solution {
         int [] prevSmaller=findPrevSmaller(heights);
         int [] nextSmaller=findNextSmaller(heights);
 
-        for(int i=0;i<heights.length;i++){
-            System.out.print(prevSmaller[i]);
-            System.out.print("  "+nextSmaller[i]);
-            System.out.println();
-        }
-
         int max=0;
         for(int i=0;i<heights.length;i++){
             int area= (nextSmaller[i]-prevSmaller[i]-1) *heights[i];
@@ -29,9 +23,8 @@ class Solution {
             while(!stack.isEmpty() && heights[i]<=heights[stack.peek()]){
                 stack.pop();
             }
-            if(stack.isEmpty())prev[i]=-1;
-            else prev[i]=stack.peek();
-            stack.push(i);
+           prev[i]= stack.isEmpty() ?-1:stack.peek();
+           stack.push(i);
 
         }
         return prev;
@@ -46,8 +39,7 @@ class Solution {
             while(!stack.isEmpty() && heights[i]<=heights[stack.peek()]){
                 stack.pop();
             }
-            if(stack.isEmpty())next[i]=n;
-            else next[i]=stack.peek();
+            next[i]=stack.isEmpty()? n:stack.peek();
             stack.push(i);
 
         }
