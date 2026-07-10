@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Merge Sort
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 ## Design
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
