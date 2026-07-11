@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
