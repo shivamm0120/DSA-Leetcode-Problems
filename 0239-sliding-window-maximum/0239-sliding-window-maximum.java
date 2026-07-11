@@ -4,33 +4,27 @@ class Solution {
         int []max= new int [nums.length-k+1];
 
         int low=0;int high=0;
-
-        while(high<k){
-           maintainMonotonicQueue(queue,nums,high);
-            high++;
-        }
-
-        max[0]=queue.peek();
-        int indx=1;
-
+        
+        int indx=0;
         while(high<nums.length){
-            if(nums[low]==queue.peek()){
-                queue.poll();
+            if(!queue.isEmpty()&&queue.peek()<low)
+              queue.poll();
+            
+            while(!queue.isEmpty()&& nums[queue.peekLast()]<=nums[high]){
+                queue.pollLast();
             }
-            maintainMonotonicQueue(queue ,nums,high);
-            max[indx++]=queue.peek();
+            queue.offer(high); 
+           
+            if(high-low+1< k){
+                high++;
+              continue;
+            }
+            max[indx++]=nums[queue.peek()];
 
             low++;
             high++;
+
         }
         return max;
-        
-    }
-    void maintainMonotonicQueue(Deque<Integer>queue, int []nums,int high){
-         while(!queue.isEmpty()&&queue.peekLast()<nums[high]){
-                queue.pollLast();
-            }
-            queue.offer(nums[high]);
-
     }
 }
