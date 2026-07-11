@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0162-find-peak-element) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
