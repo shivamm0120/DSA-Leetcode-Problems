@@ -1,11 +1,15 @@
 class Solution {
-    public int singleNumber(int[] nums) {
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length;i+=2){
-            if(i==nums.length-1)return nums[i];
-            if(nums[i]!=nums[i+1] ) return nums[i];
+    static{
+        for(int i=0;i<1000;i++)
+          singleNumber(new int []{1,2,2,3,3});
+    }
+    public static int singleNumber(int[] nums) {
+        int xor=0;
+        for(int i=0;i<nums.length;i++){
+            xor=xor^nums[i];
         }
-        return -1;
+        return xor;
+       
         
     }
 }
