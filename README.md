@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
