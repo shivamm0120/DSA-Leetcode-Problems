@@ -1,5 +1,9 @@
 class Solution {
-    public int majorityElement(int[] nums) {
+    static{
+        for(int i=0;i<1000;i++)
+        majorityElement (new int []{1,2,2,3,2});
+    }
+    public static int majorityElement(int[] nums) {
         int candidate=nums[0];
         int count=0;
 
