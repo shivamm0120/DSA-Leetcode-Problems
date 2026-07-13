@@ -1,14 +1,23 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        HashMap<Integer,Integer> freq= new HashMap<>();
+        int candidate=nums[0];
+        int count=0;
 
-        int n=nums.length;
-        for(int i=0;i<n;i++){
-         int count= freq.getOrDefault(nums[i],1);
-         System.out.println(nums[i]+" "+ count +"times");
-         if(count>n/2)return nums[i];
-         freq.put(nums[i],count+1);
+        for(int num:nums){
+            //take current ele as candidate 
+            if(count==0){
+                candidate =num;
+            }
+            //increase count of candidate
+            if(candidate==num)
+               count++;
+            else
+              count--;//other element visited
         }
-        return -1;
+        return candidate;//candidate element will have some +ve count 
+        //that means it has more occurrences than others thats why it remained as positive .
+
+       
+        
     }
 }
