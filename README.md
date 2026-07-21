@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0704-binary-search) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2270-number-of-ways-to-split-array) |
