@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0148-sort-list) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0402-remove-k-digits) |
