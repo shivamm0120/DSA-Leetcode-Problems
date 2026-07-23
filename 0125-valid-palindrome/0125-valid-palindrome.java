@@ -7,12 +7,10 @@ class Solution {
             while(left<right && !Character.isLetterOrDigit(ch[left]))left++;
             while(right>left && !Character.isLetterOrDigit(ch[right]))right--;
 
-            if(Character.isUpperCase(ch[left]))
-                ch[left]=Character.toLowerCase(ch[left]);
-            if(Character.isUpperCase(ch[right]))
-                ch[right]=Character.toLowerCase(ch[right]);
+        char leftChar = Character.toLowerCase(ch[left]);
+        char rightChar = Character.toLowerCase(ch[right]);
 
-                if(ch[left]!=ch[right])return false;
+                if(leftChar!=rightChar)return false;
 
                 left++;
                 right--;
