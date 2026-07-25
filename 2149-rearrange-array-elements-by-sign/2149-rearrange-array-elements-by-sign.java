@@ -18,3 +18,19 @@ class Solution {
        return ans;
     }
 }
+//In the above question if order doesnot matters then we can do it without using an extra array.we can do in place.
+//i can use swapping of the elements where the alternate order is not there
+/*int pos=0,neg=1;
+
+while(pos<n && neg<n){
+  if(nums[pos]>0) pos+=2;
+  else if(nums[neg]<0)neg+=2;
+  else{
+  int temp=nums[pos];
+  nums[pos]=nums[neg];
+  nums[neg]=temp;
+  }
+}
+return nums;
+
+*/
