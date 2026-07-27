@@ -3,13 +3,13 @@ class Solution {
         int firstLargest=0;
         int secondLargest=0;
 
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]>firstLargest){
+        for(int num:nums){
+            if(num>firstLargest){
                 secondLargest=firstLargest;
-                firstLargest=nums[i];
+                firstLargest=num;
             }
-            else if(nums[i]>secondLargest){
-                secondLargest=nums[i];
+            else if(num>secondLargest){
+                secondLargest=num;
             }
         }
         return (firstLargest-1)*(secondLargest-1);
