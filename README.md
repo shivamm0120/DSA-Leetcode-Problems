@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Sliding Window
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -437,10 +440,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
