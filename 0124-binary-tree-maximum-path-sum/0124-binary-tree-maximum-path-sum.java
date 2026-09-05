@@ -18,8 +18,8 @@ class Solution {
     public int maxPathSum(TreeNode root) {
        // path=Math.max(path,findSum(root));
       // int path2=
-       int path1=findSum(root);
-       return path>path1?path:path1;
+       findSum(root);
+       return path;
 
 
 
