@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2784-check-if-array-is-good](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -434,12 +437,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
