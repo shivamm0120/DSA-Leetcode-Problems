@@ -13,14 +13,7 @@
  *     }
  * }
  */
- class Pair{
-    int sum;
-    int count;
-    Pair(int sum,int count){
-        this.sum=sum;
-        this.count=count;
-    }
- }
+
 class Solution {
     int ans=0;
     public int averageOfSubtree(TreeNode root) {
@@ -28,23 +21,23 @@ class Solution {
         return ans;
         
     }
-    Pair compute(TreeNode node){
+   int[] compute(TreeNode node){
         if(node==null)
-          return new Pair(0,0);
+          return new int[] {0,0};
 
-          Pair p1=compute(node.left);
-          int leftSum=p1.sum;
-          int leftCount=p1.count;
+          int[] left=compute(node.left);
+          int leftSum=left[0];
+          int leftCount=left[1];
 
-          Pair p2=compute(node.right);
-          int rightSum=p2.sum;
-          int rightCount=p2.count;
+          int[] right=compute(node.right);
+          int rightSum=right[0];
+          int rightCount=right[1];
 
           int total=rightSum+leftSum+node.val;
           int count=leftCount+rightCount+1;
           if(node.val==total/count)
             ans++;
 
-            return new Pair(total,count);
+            return new int[]{total,count};
     }
 }
