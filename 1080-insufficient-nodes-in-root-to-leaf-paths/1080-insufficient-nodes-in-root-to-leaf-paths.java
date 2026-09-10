@@ -15,37 +15,31 @@
  */
 class Solution {
     public TreeNode sufficientSubset(TreeNode root, int limit) {
-       int result= compute(root,limit,0);
-       if(result<limit)return null;
+       if(compute(root,limit,0)<limit)return null;
         return root;
-        
-
     }
+
+
     int compute(TreeNode node, int limit,int curr){
-        if(node==null)return Integer.MIN_VALUE;
-        
-        if(node.left==null && node.right==null)return node.val;
-
         curr+=node.val;
-        //System.out.println(curr+"\n");
-
-
         
-        int left=compute(node.left,limit,curr);
+        if(node.left==null && node.right==null)return curr;
 
-            System.out.println(left+" "+node.val);
-           if( curr+left<limit){
+        int left=Integer.MIN_VALUE;
+        int right=Integer.MIN_VALUE;
+        
+        if(node.left!=null)
+           left=compute(node.left,limit,curr);
+
+        if( left<limit)
            node.left=null;
-           }
-          
-    
-          int right=compute(node.right,limit,curr);
-         
-           if(curr+right<limit){
+
+        if(node.right!=null)
+        right=compute(node.right,limit,curr);
+
+        if(right<limit)
            node.right=null;
-           //right=0;
-           }
-         
-         return node.val+Math.max(left,right);
+
+         return Math.max(left,right);
     }
 }
