@@ -42,12 +42,10 @@ class Solution {
                 node=node.left;
             }
 
-            System.out.println(prev.val);
             if(prev==root)prev.right=node.right;
             else prev.left=node.right;
 
             root.val=node.val;
-            node.right=null;
         }
         return root;
     }
