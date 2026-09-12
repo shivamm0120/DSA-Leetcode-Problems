@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0867-transpose-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Depth-First Search
 |  |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Queue
 |  |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
@@ -513,4 +518,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
