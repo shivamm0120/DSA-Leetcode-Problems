@@ -549,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
