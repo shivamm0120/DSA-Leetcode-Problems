@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
