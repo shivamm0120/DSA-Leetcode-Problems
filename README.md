@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -564,11 +566,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 ## Database
 |  |
 | ------- |
@@ -583,4 +587,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
