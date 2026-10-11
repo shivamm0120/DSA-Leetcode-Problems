@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2270-number-of-ways-to-split-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3660-jump-game-ix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Simulation
@@ -601,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
