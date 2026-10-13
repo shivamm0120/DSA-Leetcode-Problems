@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3660-jump-game-ix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3660-jump-game-ix) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
