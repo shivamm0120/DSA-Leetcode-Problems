@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0556-next-greater-element-iii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0788-rotated-digits](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
