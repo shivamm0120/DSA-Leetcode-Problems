@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Merge Sort
 |  |
