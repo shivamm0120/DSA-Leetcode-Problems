@@ -1,15 +1,22 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int k=1;
+        int uniquePointer=1;
         int n=nums.length;
 
-        for(int i=1;i<n;i++){
-            if(nums[i]!=nums[i-1]){
-                nums[k]=nums[i];
-                k++;
-            }
+        int i=1;
+        while(i<n){
 
+            while(i<n && nums[i]==nums[i-1]){
+                i++;
+
+            }
+            if(i==n)break;
+            nums[uniquePointer]=nums[i];
+            uniquePointer++;
+            i++;
+                     
         }
-        return k;
+        return uniquePointer;
+        
     }
 }
