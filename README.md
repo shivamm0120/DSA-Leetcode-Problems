@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0031-next-permutation) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
