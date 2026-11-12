@@ -5,33 +5,66 @@ class Solution {
 
         int n=nums.length;
         int left=0,right=0;
-        HashMap<Integer,Integer>hm=new HashMap<>();
+       // HashMap<Integer,Integer>hm=new HashMap<>();
+
+        // while(right<n){
+        //     int curr=nums[right];
+        //     if(hm.containsKey(curr)){
+        //         int duplicate=hm.get(curr);
+        //         while(left<=duplicate){
+        //             sum-=nums[left];
+        //             hm.remove(nums[left]);
+        //             left++;
+        //         }
+        //     }
+        //     int windowSize=right-left+1;
+
+        //     hm.put(curr,right);
+        //     sum+=curr;
+        //     if(windowSize<k){
+        //         right++;
+        //     }
+        //     if(windowSize==k){
+        //         if(max<sum)max=sum;
+        //         sum-=nums[left];
+        //         hm.remove(nums[left]);
+
+        //         left++;
+        //         right++;
+        //     }
+        // }
+       HashSet<Integer>elements=new HashSet<>();
 
         while(right<n){
-            int curr=nums[right];
-            if(hm.containsKey(curr)){
-                int duplicate=hm.get(curr);
-                while(left<=duplicate){
+            if(!elements.contains(nums[right])){
+                int window=right-left+1;
+                elements.add(nums[right]);
+                sum+=nums[right];
+
+                if(window<k){
+                    right++;
+                }
+                else if(window==k){
+                   if(max<sum)max=sum;
+                   sum-=nums[left];
+                   elements.remove(nums[left]);
+                   left++;
+                   right++;
+                }
+
+            }
+            else{
+                while(nums[left]!=nums[right]){
                     sum-=nums[left];
-                    hm.remove(nums[left]);
+                     elements.remove(nums[left]);
                     left++;
                 }
-            }
-            int windowSize=right-left+1;
-
-            hm.put(curr,right);
-            sum+=curr;
-            if(windowSize<k){
-                right++;
-            }
-            if(windowSize==k){
-                if(max<sum)max=sum;
                 sum-=nums[left];
-                hm.remove(nums[left]);
-
+                elements.remove(nums[left]);
                 left++;
-                right++;
+
             }
+
         }
         return max;
         
