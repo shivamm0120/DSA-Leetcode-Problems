@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3660-jump-game-ix](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3660-jump-game-ix) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
