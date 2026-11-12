@@ -10,7 +10,6 @@ class Solution {
             if(nums[end]>nums[end-1]){
 
                if(!isIncreasing){
-                max=Math.max(count,max);
                 count=1;
                 isIncreasing=true;
 
@@ -20,7 +19,6 @@ class Solution {
             }
             else if(nums[end]<nums[end-1]){
                 if(isIncreasing){
-                    max=Math.max(max,count);
                     count=1;
                     isIncreasing=false;
 
@@ -28,9 +26,9 @@ class Solution {
                 count++;
             }
             else {
-                max=Math.max(max,count);
                 count=1;
             }
+                max=Math.max(max,count);
 
         }
             if(max<count)max=count;
