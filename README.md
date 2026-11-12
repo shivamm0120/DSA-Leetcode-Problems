@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shivamm0120/DSA-Leetcode-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
