@@ -14,23 +14,19 @@
  * }
  */
 class Solution {
-    
-        StringBuilder preorder1=new StringBuilder();
-        StringBuilder preorder2=new StringBuilder();
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p==null && q!=null)return false;
-        if(q==null && p!=null)return false;
+        return preOrder(p,q);
+
+        
+    }
+    boolean preOrder(TreeNode p,TreeNode q){
         if(p==null && q==null)return true;
-
-        if(p.val!=q.val)return false;
-
-        boolean left=isSameTree(p.left,q.left);
-        if(!left)return false;
-
-        boolean right=isSameTree(p.right,q.right);
-        if(!right)return false;
+        else if(p==null && q!=null || p!=null && q==null)return false;
+        else if(p.val!=q.val)return false;
+        if(!preOrder(p.left,q.left))return false;
+        if(!preOrder(p.right,q.right))return false;
 
         return true;
+        
     }
-   
 }
