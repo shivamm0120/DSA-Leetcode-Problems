@@ -1,52 +1,38 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-
-    int path = Integer.MIN_VALUE;
-
+    int ans=-1001;
     public int maxPathSum(TreeNode root) {
-
-        findSum(root);
-
-        return path;
+       findMaxPath(root);
+       return ans;
     }
+    int findMaxPath(TreeNode root){
+         if(root==null)return 0;
+        int curr=root.val;
+        int path=curr;
 
-    public int findSum(TreeNode root) {
+        int leftPath=findMaxPath(root.left);
+        int rightPath=findMaxPath(root.right);
 
-        if (root == null)
-            return 0;
+        path=Math.max(path,curr+leftPath);
+        path=Math.max(path,curr+rightPath);
 
-        /*
-         * Get maximum contribution from left and right subtree.
-         *
-         * If contribution is negative, don't include it.
-         * Hence Math.max(0, contribution).
-         */
-        int lp = Math.max(0, findSum(root.left));
-        int rp = Math.max(0, findSum(root.right));
+        ans=Math.max(ans,path);
+        ans=Math.max(ans,curr+leftPath+rightPath);
+        return path;
 
-        /*
-         * Complete path through current node:
-         *
-         *        left
-         *          \
-         *          root
-         *          /
-         *       right
-         *
-         * This path can use BOTH left and right.
-         * But this value is only used for the global answer.
-         */
-        path = Math.max(path, lp + root.val + rp);
-
-        /*
-         * Return value to parent:
-         *
-         * Parent can take only ONE side.
-         *
-         * We cannot return:
-         *     lp + root + rp
-         *
-         * because then the path would branch.
-         */
-        return root.val + Math.max(lp, rp);
     }
 }
